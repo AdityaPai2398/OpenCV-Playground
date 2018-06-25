@@ -1,5 +1,5 @@
 # OpenCV-Playground
-Having fun with OpenCV
+<i>Having fun with OpenCV</i>
 <br>
 Contains:
 <br>
